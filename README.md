@@ -3,4 +3,4 @@ CS102A PROJECT
 
 Screenshot of this game:
 
-![1592485323267](C:\Users\dell\AppData\Roaming\Typora\typora-user-images\1592485323267.png)
+![Image](https://github.com/tao-sun2/Dots_and_Boxes/blob/master/images/%E6%97%A0%E6%A0%87%E9%A2%98.png)
